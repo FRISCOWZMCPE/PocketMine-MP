@@ -185,13 +185,11 @@ class Block extends Position implements BlockIds, Metadatable{
 	}
 
 	/**
-	 * Returns if the block can be broken with an specific Item
-	 *
-	 * @param Item $item
+	 * Returns if the block can be broken
 	 *
 	 * @return bool
 	 */
-	public function isBreakable(Item $item) : bool{
+	public function isBreakable() : bool{
 		return true;
 	}
 
