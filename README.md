@@ -1,3 +1,4 @@
+(Disclaimer: don't use this fork, please use the original pmmp, i will be just testing stuff here)
 # [![PocketMine-MP](http://cdn.pocketmine.net/img/PocketMine-MP-h.png)](https://pmmp.io)
 
 __A highly customisable, open source server software for Minecraft: Pocket Edition written in PHP__
