@@ -46,7 +46,7 @@ class Air extends Transparent{
 		return true;
 	}
 
-	public function isBreakable(Item $item) : bool{
+	public function isBreakable() : bool{
 		return false;
 	}
 
